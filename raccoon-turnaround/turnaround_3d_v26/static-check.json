@@ -1,0 +1,96 @@
+{
+  "size": [
+    480,
+    256
+  ],
+  "protected_front_pixels": 2730,
+  "views": {
+    "0": {
+      "silhouette": [
+        137,
+        32,
+        296,
+        244
+      ],
+      "visible_contacts": {
+        "brim_fur": 180,
+        "scarf_jaw": 72,
+        "scarf_coat": 110,
+        "chest_sleeve": 87
+      }
+    },
+    "45": {
+      "silhouette": [
+        117,
+        32,
+        293,
+        244
+      ],
+      "visible_contacts": {
+        "brim_fur": 169,
+        "scarf_jaw": 67,
+        "scarf_coat": 99,
+        "chest_sleeve": 86
+      }
+    },
+    "90": {
+      "silhouette": [
+        154,
+        32,
+        292,
+        244
+      ],
+      "visible_contacts": {
+        "brim_fur": 121,
+        "scarf_jaw": 67,
+        "scarf_coat": 83,
+        "chest_sleeve": 90
+      },
+      "v25_silhouette": [
+        156,
+        32,
+        295,
+        244
+      ],
+      "v23_v25_silhouette_iou": 0.8641,
+      "v26_v25_silhouette_iou": 0.8574
+    },
+    "135": {
+      "silhouette": [
+        184,
+        32,
+        297,
+        244
+      ],
+      "visible_contacts": {
+        "brim_fur": 139,
+        "scarf_jaw": 69,
+        "scarf_coat": 85,
+        "chest_sleeve": 46
+      },
+      "continuous_hatband_width": 105
+    },
+    "180": {
+      "silhouette": [
+        184,
+        32,
+        343,
+        244
+      ],
+      "visible_contacts": {
+        "brim_fur": 154,
+        "scarf_jaw": 74,
+        "scarf_coat": 96,
+        "chest_sleeve": 95
+      },
+      "v25_silhouette": [
+        183,
+        33,
+        335,
+        244
+      ],
+      "v23_v25_silhouette_iou": 0.801,
+      "v26_v25_silhouette_iou": 0.8581
+    }
+  }
+}

@@ -1,0 +1,8 @@
+; Static grayscale shape review.
+config_version=5
+
+[application]
+config/name="Graytail cheek and rear outline"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"

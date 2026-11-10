@@ -1,0 +1,43 @@
+{
+  "source_size": [
+    1774,
+    887
+  ],
+  "native_size": [
+    480,
+    256
+  ],
+  "shared_source_ground": 822,
+  "shared_native_ground": 244,
+  "shared_scale": 0.2683544303797468,
+  "views": {
+    "side-090": {
+      "source_bounds": [
+        157,
+        32,
+        676,
+        822
+      ],
+      "native_bounds": [
+        156,
+        32,
+        295,
+        244
+      ]
+    },
+    "back-180": {
+      "source_bounds": [
+        121,
+        37,
+        686,
+        822
+      ],
+      "native_bounds": [
+        183,
+        33,
+        335,
+        244
+      ]
+    }
+  }
+}

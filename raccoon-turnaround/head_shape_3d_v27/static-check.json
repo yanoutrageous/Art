@@ -1,0 +1,38 @@
+{
+  "native": [
+    480,
+    256
+  ],
+  "front_exact_rgba": true,
+  "profile_rear_edge_mean_error_px": [
+    3.923076923076923,
+    0.6153846153846154
+  ],
+  "row_117_v26_v27_v25": [
+    198,
+    205,
+    207
+  ],
+  "views": {
+    "0": {
+      "changed_pixels": 0,
+      "fur_projection_changed": 0
+    },
+    "45": {
+      "changed_pixels": 243,
+      "fur_projection_changed": 97
+    },
+    "90": {
+      "changed_pixels": 1125,
+      "fur_projection_changed": 178
+    },
+    "135": {
+      "changed_pixels": 2677,
+      "fur_projection_changed": 188
+    },
+    "180": {
+      "changed_pixels": 2820,
+      "fur_projection_changed": 192
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "shift_x_px": [
+    -2.3935470581054688,
+    5.0
+  ],
+  "surfaces": [
+    {
+      "triangles": 12544,
+      "min_area_ratio": 0.6633293549635735,
+      "min_normal_cosine": 0.5726987369224934,
+      "unchanged_source_degenerate_triangles": 2,
+      "protected_vertices": 1741
+    },
+    {
+      "triangles": 12416,
+      "min_area_ratio": 0.6343620424350929,
+      "min_normal_cosine": 0.5722429560327087,
+      "unchanged_source_degenerate_triangles": 0,
+      "protected_vertices": 1959
+    }
+  ]
+}
